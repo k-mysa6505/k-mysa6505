@@ -30,7 +30,6 @@ I am a university student enrolled in an informatics course. I like game develop
 
 - 🌐 Web Application Development
 - 🎮 Game Development
-- ⚛️ Quantum Physics
 
 ## 🎮 Projects
 
@@ -39,8 +38,8 @@ I am a university student enrolled in an informatics course. I like game develop
 ## 📷 Hobbies
 
 - Photography
-- Learning about quantum physics
-- Chocolate mint enthusiast
+- Quantum physics
+- Chocolate mint 🍫🌿
 
 ## 📊 GitHub Stats
 
