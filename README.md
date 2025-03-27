@@ -41,24 +41,6 @@ I am a university student enrolled in an informatics course. I like game develop
 - Quantum physics
 - Chocolate mint 🍫🌿
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-mysa6505&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-mysa6505&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-mysa6505&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k-mysa6505&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/k-mysa6505?style=social" alt="Followers"/>
-</p>
-
 <!--
 **kokko-my/kokko-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
