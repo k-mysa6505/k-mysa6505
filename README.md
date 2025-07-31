@@ -11,12 +11,7 @@ I am a student majoring in image engineering at Tokushima University.
 I am interested in developing web services and browser games.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-mysa6505&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="kokko-my's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-mysa6505&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=k-mysa6505&theme=dracula" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=k-mysa6505&theme=draconic&column=7" alt="GitHub Trophy" />
 </p>
 
 ### 📌 Pinned Repositories
