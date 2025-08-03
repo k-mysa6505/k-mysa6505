@@ -17,16 +17,16 @@ I am interested in developing web services and browser games.
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/kokko-my/personalize-english-speed">
+  <a href="https://github.com/k-mysa6505/personalize-english-speed">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-mysa6505&repo=personalize-english-speed&theme=dracula&show_owner=true" alt="personalize-english-speed" />
   </a>
-  <a href="https://github.com/kokko-my/musikui">
+  <a href="https://github.com/k-mysa6505/musikui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-mysa6505&repo=musikui&theme=dracula&show_owner=true" alt="musikui" />
   </a>
-  <a href="https://github.com/kokko-my/my-site">
+  <a href="https://github.com/k-mysa6505/my-site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-mysa6505&repo=my-site&theme=dracula&show_owner=true" alt="my-site" />
   </a>
-  <a href="https://github.com/kokko-my/sandtrix">
+  <a href="https://github.com/k-mysa6505/sandtrix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-mysa6505&repo=sandtrix&theme=dracula&show_owner=true" alt="sandtrix" />
   </a>
 </p>
